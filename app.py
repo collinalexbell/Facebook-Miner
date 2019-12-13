@@ -10,7 +10,7 @@ from datetime import datetime
 
 # Create Writer Object
 
-access_token = "397068537067020|WSBnjxOru0C601SZsWYQpDeFT7U"
+access_token = "PUT TOKEN IN HERE"
 
 
 def getLikes():
